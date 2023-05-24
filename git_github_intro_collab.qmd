@@ -1,7 +1,9 @@
 ---
 title: "Git and Github for Remote Collaboration"
 author: "@javirudolph"
-format: revealjs
+format:
+   revealjs: 
+      incremental: true
 self-contained: true
 ---
 
@@ -24,4 +26,12 @@ When you click the **Render** button a presentation will be generated that inclu
 1 + 1
 ```
 
+---
+
+::: {.incremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
 
